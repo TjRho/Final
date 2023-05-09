@@ -1,0 +1,74 @@
+#logo{
+    width:7%;
+    height:7%;
+}
+#cart{
+    width:7%;
+    height:6%;
+    float:right;
+
+}
+
+#back{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 350px;
+}
+div#middle{
+    background:rgb(32, 76, 62)
+}
+ 
+#navbar{
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+#words{
+text-align: center;
+}
+
+
+#cards{
+    align-items: center;
+}
+
+
+
+
+div#bs{
+    display: inline-block;
+    padding-left: 7%;
+}
+
+div#purp{
+display: inline-block;
+padding-left: 5%;
+}
+
+
+
+div#Bs{
+display: inline-block;
+padding-left: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
